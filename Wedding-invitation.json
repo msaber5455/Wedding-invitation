@@ -252,7 +252,7 @@
     "name": "جدو",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:33:30.888Z"
   },
   {
