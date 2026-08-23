@@ -684,7 +684,7 @@
     "name": "محمد اشرف شحات",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:21:55.104Z"
   },
   {
@@ -692,7 +692,7 @@
     "name": "محمد عاطف كريمة",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:21:42.073Z"
   },
   {
