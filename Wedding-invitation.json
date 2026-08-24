@@ -1,5 +1,13 @@
 [
   {
+    "id": "mt7hzkhmpehql",
+    "name": "اشرف عبدالله رفاعي",
+    "phone": "",
+    "notes": "",
+    "invited": false,
+    "createdAt": "2026-08-24T17:16:14.076Z"
+  },
+  {
     "id": "mt7hfz1j4ds17",
     "name": "استاذ امين سعيد درويش",
     "phone": "",
@@ -2436,7 +2444,7 @@
     "name": "اشرف فوزي",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:53:46.837Z"
   },
   {
