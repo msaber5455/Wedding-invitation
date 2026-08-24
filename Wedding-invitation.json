@@ -1404,7 +1404,7 @@
     "name": "سامح باطه",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:07:20.579Z"
   },
   {
@@ -1476,7 +1476,7 @@
     "name": "ياسر الديب",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:06:12.149Z"
   },
   {
@@ -1516,7 +1516,7 @@
     "name": "وليد مرسي",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:05:51.287Z"
   },
   {
