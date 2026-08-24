@@ -492,7 +492,7 @@
     "name": "حسام باطه",
     "phone": "",
     "notes": "سجل شبين القناطر",
-    "invited": true,
+    "invited": false,
     "createdAt": "2026-08-22T18:33:38.904Z"
   },
   {
@@ -508,7 +508,7 @@
     "name": "اسلام",
     "phone": "",
     "notes": "بيتزا العمدة المحل",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:33:26.920Z"
   },
   {
