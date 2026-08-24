@@ -2580,7 +2580,7 @@
     "name": "محمود عبدالباسط",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:52:34.556Z"
   },
   {
@@ -2732,7 +2732,7 @@
     "name": "عمي منصور",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:51:07.431Z"
   },
   {
