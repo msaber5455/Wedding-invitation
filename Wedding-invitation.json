@@ -2356,7 +2356,7 @@
     "name": "محمود شحات",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:22:03.453Z"
   },
   {
@@ -2364,7 +2364,7 @@
     "name": "تيسير",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:22:00.775Z"
   },
   {
