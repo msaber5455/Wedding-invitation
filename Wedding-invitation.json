@@ -1,5 +1,13 @@
 [
   {
+    "id": "mt8k9lvycjs78",
+    "name": "احمد عمارة",
+    "phone": "",
+    "notes": "",
+    "invited": false,
+    "createdAt": "2026-08-25T11:07:47.854Z"
+  },
+  {
     "id": "mt8j26masb0bd",
     "name": "امين نادي امين صقر",
     "phone": "",
@@ -300,7 +308,7 @@
     "name": "احمد جمال شيمي",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-24T15:42:11.624Z"
   },
   {
