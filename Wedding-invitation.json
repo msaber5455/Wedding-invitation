@@ -636,7 +636,7 @@
     "name": "قنديل",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-25T14:37:35.949Z"
   },
   {
