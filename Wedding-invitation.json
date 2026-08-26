@@ -1380,7 +1380,7 @@
     "name": "مخيمر",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-24T20:33:16.715Z"
   },
   {
