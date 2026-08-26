@@ -1052,7 +1052,7 @@
     "name": "احمد جلال",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-25T14:30:56.605Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "name": "احمد ايهاب ضرغام",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-25T14:30:31.933Z"
   },
   {
