@@ -3780,7 +3780,7 @@
     "name": "شارعنا كله",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:55:19.793Z"
   },
   {
@@ -4140,7 +4140,7 @@
     "name": "عواد ضرغام",
     "phone": "01004492503",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:51:53.803Z"
   },
   {
