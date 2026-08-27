@@ -3636,7 +3636,7 @@
     "name": "احمد سليم",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:57:02.051Z"
   },
   {
@@ -3716,7 +3716,7 @@
     "name": "ابراهيم شوشه",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:56:05.645Z"
   },
   {
