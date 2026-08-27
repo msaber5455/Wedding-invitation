@@ -28,7 +28,7 @@
     "name": "محمد عواد الشارع اللى فى وشنا",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-25T19:14:40.931Z"
   },
   {
@@ -2684,7 +2684,7 @@
     "name": "مصطفي الحاج علي",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T18:12:05.026Z"
   },
   {
