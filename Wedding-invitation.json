@@ -3556,7 +3556,7 @@
     "name": "سلامة عبد الوهاب نبيه",
     "phone": "01152684159",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:57:47.524Z"
   },
   {
@@ -3612,7 +3612,7 @@
     "name": "عطا خليف",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:57:28.884Z"
   },
   {
