@@ -3740,7 +3740,7 @@
     "name": "جيران المنزل",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:55:47.215Z"
   },
   {
@@ -3764,7 +3764,7 @@
     "name": "شارع عماتي",
     "phone": "",
     "notes": "",
-    "invited": false,
+    "invited": true,
     "createdAt": "2026-08-22T17:55:27.719Z"
   },
   {
